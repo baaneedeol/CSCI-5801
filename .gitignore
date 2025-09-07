@@ -1,0 +1,8 @@
+*.class
+*.xml
+*.iml
+/.idea
+/lib
+/out
+/Project1/.idea
+repo-Team10.iml
